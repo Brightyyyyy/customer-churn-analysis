@@ -1,0 +1,22 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,Cust_name,country,state,gender,dob,complaint_date,escalations,csat_score,complaint_count
+0002-ORFBO,15-03-2021,Refferal,15-03-2025,Standard,Annual,,,13.99,627,12,0,keshav,India,Maharashtra,Male,12-04-1982,,,,
+0003-MKNFE,01-08-2020,Paid,01-08-2024,Premium,Annual,10-09-2024,Switched to competitor,12.99,1150,91,1,raghav,India,Karnataka,Male,23-11-1995,28-08-2024,Y,10,2
+0004-TLHLJ,20-11-2022,Organic,20-11-2025,Basic,Monthly,,,6.99,210,34,0,lalita,India,Delhi,Female,15-02-1978,,,,
+0011-IGKFF,10-05-2019,Paid,10-05-2025,Premium,Annual,,,22.99,1725,8,0,mohan,India,Nagaland,Male,30-08-2001,,,,
+0013-EXCHZ,05-01-2023,Refferal,05-01-2024,Standard,Monthly,28-02-2024,Too expensive,13.99,195,88,1,mira,India,Delhi,Female,05-05-1990,20-01-2024,Y,20,1
+0013-MHZWF,18-06-2022,Paid,18-06-2025,Standard,Annual,,,17.99,720,22,0,durga,India,Delhi,Female,10-12-1988,18-03-2025,N,90,1
+0013-SMEOE,30-09-2021,Refferal,30-09-2024,Basic,Monthly,15-11-2024,Not enough content,8.99,230,79,1,mina,India,Meghalaya,Female,21-09-1976,01-11-2024,N,30,1
+0014-BMAQU,14-02-2020,Organic,14-02-2025,Premium,Annual,,,22.99,1840,5,0,madan,India,Rajasthan,Male,14-03-1999,,,,
+0015-UOCOJ,22-07-2023,Organic,22-07-2024,Standard,Monthly,,,13.99,240,34,0,maya,Nepal,Kathmandu,Female,07-07-1985,,,,
+0016-QLJIS,03-04-2022,Organic,03-04-2025,Basic,Annual,,,6.99,335,41,0,arjun,Nepal,Kathmandu,Male,29-10-1993,,,,
+0017-DINOC,01-12-2021,Organic,01-12-2025,Premium,Annual,,,22.99,1610,14,0,shiva,India,Maharashtra,Male,22-01-1997,,,,
+0017-IUDMW,17-03-2023,Refferal,17-03-2024,Standard,Monthly,01-05-2024,Poor streaming quality,7.99,270,83,1,rangadevi,India,Karnataka,Female,18-06-1981,10-04-2024,Y,25,1
+0018-NYROU,09-10-2020,Organic,09-10-2025,Standard,Annual,,,13.99,980,19,0,chitra,India,Telangana,Female,01-12-2004,,,,
+0019-EFAEP,25-08-2022,Refferal,25-08-2024,Basic,Monthly,31-10-2024,Switched to competitor,12.99,160,76,1,raju,India,Meghalaya,Female,25-04-1992,27-09-2024,Y,30,1
+0019-GFNTW,11-11-2019,Paid,11-11-2025,Premium,Annual,,,92.99,2185,3,0,Madhav,India,Uttar Pradesh,Male,11-11-1979,,,,
+0020-INWCK,06-05-2023,Organic,06-05-2025,Standard,Monthly,,,13.99,640,58,0,parvati,India,Delhi,Female,28-02-1986,,,,
+0020-JDNXP,19-01-2022,Organic,19-01-2024,Premium,Annual,,,20.99,550,62,0,rikim,India,Meghalaya,Female,19-08-1994,,,,
+0021-IKXGC,07-07-2021,Paid,07-07-2025,Standard,Annual,,,13.99,840,27,0,vishakha,India,Rajasthan,Female,02-09-2000,,,,
+0022-TCJCI,14-09-2023,Refferal,14-09-2024,Basic,Monthly,14-09-2024,Forgot to cancel trial,16.99,42,99,1,raghvendra,India,Telangana,Male,30-12-1983,14-09-2024,N,90,2
+0023-HGHWL,23-06-2020,Organic,23-06-2025,Premium,Annual,,,22.99,1955,7,0,rishabh,India,Uttar Pradesh,Male,14-05-1991,,,,
+0023-UYUPN,31-12-2022,Paid,31-12-2025,Standard,Monthly,,,13.99,790,47,0,sudevi,India,Maharashtra,Female,06-10-1977,,,,
